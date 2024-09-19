@@ -1,0 +1,20 @@
+{
+  "Name": "CityTemperature",
+  "Id": null,
+  "Description": "To Find the Given City's Temperature and Print them Accordingly.",
+  "ProjectVersion": "1.0.0",
+  "DesignerVersion": null,
+  "StartFlow": "Main.xml",
+  "ReleaseNotes": null,
+  "Packages": {
+    "CPA.Extension.Selenium": "1.0.0",
+    "CPA.Extension.PromptsnMessageBox": "1.0.0",
+    "CPA.Extension.UIAutomation": "1.0.0"
+  },
+  "OutputExe": null,
+  "NugetURL": "https://dev-852049560900.d.codeartifact.us-east-2.amazonaws.com/nuget/extensions/v3/index.json",
+  "RepoAccess": true,
+  "IsBackgroundFlow": false,
+  "IsTemplate": false,
+  "ExcludedFileFolders": []
+}
