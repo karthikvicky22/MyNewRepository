@@ -1,7 +1,7 @@
 {
   "Name": "CityTemperature",
   "Id": null,
-  "Description": "To Find the Given City's Temperature and Print them Accordingly.",
+  "Description": "To Find the Given City's Temperature and Print them.",
   "ProjectVersion": "1.0.0",
   "DesignerVersion": null,
   "StartFlow": "Main.xml",
