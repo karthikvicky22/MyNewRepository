@@ -14,7 +14,7 @@
   "OutputExe": null,
   "NugetURL": "https://dev-852049560900.d.codeartifact.us-east-2.amazonaws.com/nuget/extensions/v3/index.json",
   "RepoAccess": true,
-  "IsBackgroundFlow": false,
+  "IsBackgroundFlow": true,
   "IsTemplate": false,
   "ExcludedFileFolders": []
 }
