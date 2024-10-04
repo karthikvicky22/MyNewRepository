@@ -36,9 +36,9 @@
     <Class-Definition name="object3">CPA.UIAutomation.Keyboard</Class-Definition>
   </ClassDefinitions>
   <Steps>
-    <Step object="object1" actualname="DisplayPrompt" returnTo="CityName" IsSecure="false" IsAsynchronous="false" AsyncQueue="false" BreakPoint="false" type="Method" Description="Input; Find Temperature; Enter a CITY Name !!!; Input Please..; ;  Output Stored in {CityName}" stepname="Display Prompt Box" CTag="CPA.PromptsnMessageBox.Prompts.DisplayPrompt">
+    <Step object="object1" actualname="DisplayPrompt" returnTo="CityName" IsSecure="false" IsAsynchronous="false" AsyncQueue="false" BreakPoint="false" type="Method" Description="Input; Find Temperatures; Enter a CITY Name !!!; Input Please..; ;  Output Stored in {CityName}" stepname="Display Prompt Box" CTag="CPA.PromptsnMessageBox.Prompts.DisplayPrompt">
       <Param name="String" IsSecure="false">Input</Param>
-      <Param name="String" IsSecure="false">Find Temperature</Param>
+      <Param name="String" IsSecure="false">Find Temperatures</Param>
       <Param name="String" IsSecure="false">Enter a CITY Name !!!</Param>
       <Param name="String" IsSecure="false">Input Please..</Param>
       <Param name="List`1" IsSecure="false" />
