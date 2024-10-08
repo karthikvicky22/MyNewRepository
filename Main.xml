@@ -85,7 +85,7 @@
       <Param name="Object" IsSecure="false">OpenBrowserSession</Param>
       <Param name="String" IsSecure="false">XPath</Param>
       <Param name="String" IsSecure="false">//span[@style='display:inline']</Param>
-      <Disable>No</Disable>
+      <Disable />
     </Step>
     <Step object="object2" actualname="DisplayMessageBox" IsSecure="false" IsAsynchronous="false" AsyncQueue="false" BreakPoint="false" type="Method" Description="Title=CPA - Message; Caption=INFO; Message=Temperature of {CityName} is {GetText}; Auto Close Message box=False; Auto Close Timeout (in seconds)=5; " stepname="Message Box" CTag="CPA.PromptsnMessageBox.MsgBox.DisplayMessageBox">
       <Param name="String" IsSecure="false">CPA - Message</Param>
